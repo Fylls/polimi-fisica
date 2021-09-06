@@ -1,6 +1,6 @@
 <div align="center">
 
-# FISICA I & II
+# Fisica Sperimentale I & II
 
 <br>
 
